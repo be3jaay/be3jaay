@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **brianjamesdlcz@gmail.com**
 
-- 📄 Know about my experiences [Upcoming 4th year college at LSPU Los Baños Campus](Upcoming 4th year college at LSPU Los Baños Campus)
+- 📄 Know about my experiences [Upcoming 4th year college at LSPU Los Baños Campus]
 
 - ⚡ What I like: **Just coffee**
 
