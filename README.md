@@ -1,7 +1,8 @@
+[![MasterHead](https://wallpapercave.com/wp/wp3203389.jpg)]
 <h1 align="center">Greetings 👋, I'm Brian James Dela Cruz</h1>
-<h3 align="center">Dedicated and passionate programmer who looks for new challenges that would enhance my skills as a web-developer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=be3jaay&label=Profile%20views&color=0e75b6&style=flat" alt="be3jaay" /> </p><
-<image align="right" alt=me width="400 src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<h3 align="center">Dedicated and passionate programmer who looks for new challenges that would enhance my skills as a web developer.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=be3jaay&label=Profile%20views&color=0e75b6&style=flat" alt="be3jaay" /> </p>
+<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 
 - 🔭 I’m currently working on this capstone project [Map-Pride](https://github.com/be3jaay/Map-Pride)
 
