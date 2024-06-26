@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Brian James Dela Cruz</h1>
 <h3 align="center">Dedicated and passionate programmer who looks for new challenges that would enhance my skills as a web developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be3jaay&label=Profile%20views&color=0e75b6&style=flat" alt="be3jaay" /> </p>
-<img align="right" alt="Coding" width="700" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
 
 - 🔭 I’m currently working on this capstone project [Map-Pride](https://github.com/be3jaay/Map-Pride)
 
