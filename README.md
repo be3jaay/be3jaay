@@ -1,4 +1,3 @@
-[![MasterHead](https://wallpapercave.com/wp/wp3203389.jpg)
 <h1 align="center">Greetings 👋, I'm Brian James Dela Cruz</h1>
 <h3 align="center">Dedicated and passionate programmer who looks for new challenges that would enhance my skills as a web developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be3jaay&label=Profile%20views&color=0e75b6&style=flat" alt="be3jaay" /> </p>
@@ -18,7 +17,7 @@
 
 - 📄 Know about my experiences [Upcoming 4th year college at LSPU Los Baños Campus](Upcoming 4th year college at LSPU Los Baños Campus)
 
-- ⚡ Fun fact **Just coffee**
+- ⚡ What I like: **Just coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
