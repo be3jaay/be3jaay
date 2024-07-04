@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Brian James Dela Cruz</h1>
 <h3 align="center">Dedicated and passionate programmer who looks for new challenges that would enhance my skills as a web developer.</h3>
 
-<img align="right" alt="Coding" width="350" height="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
+<img align="right" alt="Coding" width="350" height="400" src="[https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif](https://lukaszadam.com/images/free-illustrations/ninja2.svg)">
 
 - 🔭 I’m currently working on this capstone project [Map-Pride](https://github.com/be3jaay/Map-Pride)
 
