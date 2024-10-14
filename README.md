@@ -1,5 +1,4 @@
 <h1 align="center">Greetings 👋, I'm Brian James Dela Cruz</h1>
-<h3 align="center">Dedicated and passionate programmer who looks for new challenges that would enhance my skills as a web developer.</h3>
 
 <img align="right" alt="Coding" width="350" height="400" src="https://lukaszadam.com/images/free-illustrations/ninja2.svg">
 
