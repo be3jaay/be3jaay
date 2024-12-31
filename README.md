@@ -2,9 +2,9 @@
 
 <img align="right" alt="Coding" width="350" height="400" src="https://lukaszadam.com/images/free-illustrations/ninja2.svg">
 
-- 🔭 I’m currently working on this capstone project [Map-Pride](https://github.com/be3jaay/Map-Pride)
+- 🔭 I’m currently working on this capstone project [next-wms](https://github.com/be3jaay/next-wms)
 
-- 🌱 I’m currently learning **Next JS & React-Typescript**
+- 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/be3jaay?tab=repositories](https://github.com/be3jaay?tab=repositories)
 
@@ -12,9 +12,7 @@
 
 - 📫 How to reach me **brianjamesdlcz@gmail.com**
 
-- 📄 Know about my experiences [Upcoming 4th year college at LSPU Los Baños Campus]
-
-- ⚡ What I like: **Just coffee**
+- ⚡ What I like: **Coffe & coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
